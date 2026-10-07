@@ -1,0 +1,6 @@
+{
+  "name": "DigiTech POS - QR Inventory & Point of Sale",
+  "description": "Fast QR code and IMEI/serial number-based point of sale (POS) and inventory management system for gadget stores.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
